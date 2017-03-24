@@ -1,5 +1,5 @@
 # Telegram Bot
-Article: [Simple Telegram Bot with Ruby](http://max-si-m.github.io/simple-telegram-bot/)
+Article: [Simple Telegram Bot with Ruby](http://max-si-m.github.io/simple-telegram-bot)
 
 Simple bot for Telegram with Ruby for finding user by IP. Just for fun, maybe it will be helpful for someone :smile:
 
